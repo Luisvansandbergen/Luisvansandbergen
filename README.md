@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Luisvansandbergen
-- 👀 I’m interested in Battery Energy Storage Systems
-- 🌱 I’m currently learning Python, Julia & LaTex.
-- 📫 How to reach me luis.vansandbergen@gmail.com
+- 👋 Hi, I’m Luis van Sandbergen
+- 👀 I’m interested in Battery Energy Storage Systems.
+- 🏫 I´m studying Energy systems systems engineering and management at the Ruhr West University of Applied Sciences.
+- 🔌 I´m a working student at Iqony Solutions.
+- 🌱 I’m currently learning Python & Julia.
+- 📫 How to reach me: luis.vansandbergen@gmail.com
 
 <!---
 Luisvansandbergen/Luisvansandbergen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
