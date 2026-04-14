@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Luis van Sandbergen
-- 👀 I’m interested in Energy Systems especially Energy Storages (like BESS), Energy Trading and Scientific Computing.
-- 🏫 I´m studying Industrial Engineering - Energy Systems (M.Eng.) at the Ruhr West University of Applied Sciences.
-- 🔌 I´m a working student at Iqony as a Junior Energy Quant.
-- 🌱 I’m currently learning Python, Matlab & Julia.
+- 👀 I’m interested in energy systems & economics (especially energy storage, like batteries), energy trading, and scientific computing.
+- 🏫 I´m a PhD student in Energy Economics at the House of Energy, Climate, and Finance, University of Duisburg-Essen.
+- 🔌 I studied Industrial Engineering - Energy Systems (M.Eng.) at the Ruhr West University of Applied Sciences.
 - 📫 How to reach me: luis.vansandbergen@gmail.com
