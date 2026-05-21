@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luis van Sandbergen
 - 👀 I’m interested in energy systems & economics (especially energy storage, like batteries), energy trading, and scientific computing.
 - 🏫 I´m a PhD student in Energy Economics at the House of Energy, Climate, and Finance, University of Duisburg-Essen.
-- 🔌 I studied Industrial Engineering - Energy Systems (M.Eng.) at the Ruhr West University of Applied Sciences.
+- 🔌 I studied Energy Systems Engineering and Management (M.Eng.) at the Ruhr West University of Applied Sciences.
 - 📫 How to reach me: luis.vansandbergen@gmail.com
